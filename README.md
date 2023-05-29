@@ -1,6 +1,6 @@
 # 💫 About Me:
 -🔭I'm currently working on chrome extension for bookmark
-- 🌱 I’m currently learning PYTHON, FASTAPI
+- 🌱 I’m currently learning Node.Js, MongoDB
 - 👯 I’m looking to collaborate on Backend Projects
 - 🤔 I’m looking for help with Servers
 - 💬 Ask me about Javascript
