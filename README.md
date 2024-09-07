@@ -1,7 +1,7 @@
 # 💫 About Me:
 -🔭I'm currently working on chrome extension
-- 🌱 I’m currently learning MERN STACK
-- 👯 I’m looking to collaborate on Backend Projects
+- 🌱 I’m currently learning Devops
+- 👯 I’m looking to collaborate or discussion on Devops
 - 🤔 I’m looking for help with Servers
 - 💬 Ask me about Javascript
 - 📫 How to reach me: Ping me on LinkedIn
